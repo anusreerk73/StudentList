@@ -1,0 +1,32 @@
+.login{
+ background-color: aquamarine;
+ height: 1000vh;
+}
+.login_section{
+    padding-top: 17%;
+    text-align: center;
+}
+.loginBtn{
+    padding: 2px 16px;
+    background-color: rgb(79, 178, 145);
+}
+.register{
+    .register_section{
+        border: 1px solid;
+        text-align: center;
+        label{
+            text-align: left !important;
+        }
+        input{
+            width: 100%;
+        }
+        .regBtn{
+            text-align: center;
+            padding: 6px;
+        }
+    }
+    
+}
+.reg-list{
+    background-color: aquamarine;
+}
